@@ -24,9 +24,10 @@ Please install R packages below to use SOHPIE-DNA.
 * dplyr
 * fdrtool
 
-We advise the user to install these to load the real data from two aforementioned studies.
+We advise the user to install these to load the real data from two aforementioned studies if you wish to analyze with different set of clinical covariates. If you wish to replicate what we have analyzed, please download the two cleaned datasets in RDS file from this repository: **cleaned_amgut.rds** and **cleaned_dietswap.rds**
 * microbiome
 * SpiecEasi
+
 Additionally, the data are in *phyloseq* object, so please install *phyloseq* R package as well.
 
 ### References
