@@ -13,8 +13,7 @@ Submitted for consideration for publication in *Nature Communications*.
 To showcase our method, we apply SOHPIE-DNA on two real datasets from the American Gut Project (McDonald *et al.*, 2018) and the Diet Exchange Study (O'Keefe *et al.*, 2018) to identify differentially connected (DC) taxa with presence of covariates. Please refer to our manuscript to see what variables are used and how we further trim the data for our study.  
 
 ```diff
-- The user manual is also provided in this repository, titled with **PRANA_UserManual.pdf. 
-  Please download for more details. 
+- The user manual is also provided in this repository, titled with **PRANA_UserManual.pdf.  
 ```
 
 ### Required Packages
