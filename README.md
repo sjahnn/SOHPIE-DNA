@@ -6,11 +6,11 @@ Submitted for consideration for publication in *Nature Communications*.
 
 
 ### Usage
-* **TotalConnectivity.R** is to calculate the total connectivity of each gene. 
-* **SOHPIE_DNA_main.R** is the primary code to analyze the data using our method. This will load the first two codes, so please download all three R codes to apply our method. The code is heavily annotated for ease of implementation.
+* **Thetahat_MiNW.R** is to calculate the degree centrality measure of each taxa. 
+* **SOHPIE_DNA_main.R** is the primary code to analyze the data using our method. This will load **Thetahat_MiNW.R**, so please make sure download both R codes to appropriately apply our method. 
 </br>
 
-To showcase our method, we apply SOHPIE-DNA on two real datasets from the American Gut Project (McDonald *et al.*, 2018) and the Diet Exchange Study (O'Keefe *et al.*, 2018) to identify differentially connected (DC) taxa with presence of covariates.
+To showcase our method, we apply SOHPIE-DNA on two real datasets from the American Gut Project (McDonald *et al.*, 2018) and the Diet Exchange Study (O'Keefe *et al.*, 2018) to identify differentially connected (DC) taxa with presence of covariates. Please refer to our manuscript to see what variables are used and how we further trim the data for our study.  
 
 The user manual for PRANA is also provided, titled with **SOHPIE_DNA_UserManual.pdf**.
 
@@ -21,7 +21,7 @@ Please install R packages below to use SOHPIE-DNA.
 * parallel
 * dplyr
 * fdrtool
-We advise the user to install these to load the real data from two aforementioned studies.
+We advise the user to install these to load the real data from two aforementioned studies. In our study, we 
 * microbiome
 * SpiecEasi
 Additionally, the data are in *phyloseq* object, so please install *phyloseq* R package as well.
