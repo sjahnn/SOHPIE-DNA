@@ -23,7 +23,8 @@ Please install R packages below to use SOHPIE-DNA.
 * parallel
 * dplyr
 * fdrtool
-We advise the user to install these to load the real data from two aforementioned studies. In our study, we 
+
+We advise the user to install these to load the real data from two aforementioned studies.
 * microbiome
 * SpiecEasi
 Additionally, the data are in *phyloseq* object, so please install *phyloseq* R package as well.
