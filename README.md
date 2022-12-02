@@ -31,6 +31,7 @@ We advise the user to install these to load the real data from two aforementione
 Additionally, the data are in *phyloseq* object, so please install *phyloseq* R package as well.
 
 ### References
+Ahn, S., Grimes, T. and Datta, S (2022). [A pseudo-value regression approach for differential network analysis of co-expression data](https://arxiv.org/abs/2211.16745). *Preprint* </br></br>
 McDonald, D. et al. (2018). [American gut: an open platform for citizen science microbiome research](https://pubmed.ncbi.nlm.nih.gov/29795809/). *mSystems*, **3**, e00031-18. </br></br>
 O'Keefe, S. J. et al. (2015). [Fat, fibre, and cancer risk in African Americans and rural Africans](https://pubmed.ncbi.nlm.nih.gov/25919227/). *Nature Communications*, **6**, 6342 </br></br>
 </br>
