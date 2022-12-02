@@ -7,7 +7,7 @@ Submitted for consideration for publication in *Nature Communications*.
 
 ### Usage
 * **Thetahat_MiNW.R** is to calculate the degree centrality measure of each taxa. 
-* **SOHPIE_DNA_main.R** is the primary code to analyze the data using our method. This will load **Thetahat_MiNW.R**, so please make sure download both R codes to appropriately apply our method. 
+* **SOHPIE-DNA_main.R** is the primary code to analyze the data using our method. This will load **Thetahat_MiNW.R**, so please make sure download both R codes to appropriately apply our method. 
 </br>
 
 To showcase our method, we apply SOHPIE-DNA on two real datasets from the American Gut Project (McDonald *et al.*, 2018) and the Diet Exchange Study (O'Keefe *et al.*, 2018) to identify differentially connected (DC) taxa with presence of covariates. Please refer to our manuscript to see what variables are used and how we further trim the data for our study.  
