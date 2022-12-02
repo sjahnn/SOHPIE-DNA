@@ -40,4 +40,4 @@ O'Keefe, S. J. et al. (2015). [Fat, fibre, and cancer risk in African Americans 
 ### Contact
 If you encounter a bug or any suggestions to improve our work, please feel free to email me (Seungjun Ahn) at sahn1@ufl.edu.
 
-In memory of Sofie.
+-- *Forever remembered, Sofie.*
