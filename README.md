@@ -1,7 +1,7 @@
 # SOHPIE-DNA (Statistical Approach via Pseudo-value Information and Estimation for Differential Network Analysis)
 
 SOHPIE-DNA: Differential Co-Abundance Network Analyses for Microbiome Data Adjusted for Clinical Covariates Using Jackknife Pseudo-Values <br/>
-Submitted for consideration for publication in *Nature Communications*.
+Submitted for consideration for publication in *Bioinformatics*.
 </br>
 
 
